@@ -13,7 +13,7 @@ Organisatorial Platform for the Meraki People Bio-Community
 [EU Science Hub – Rural toolkit](https://joint-research-centre.ec.europa.eu/events/rural-toolkit-launch-event-2024-02-06_en) (Platform for opportunities)
 
 
-Learning Programs
+## Learning Programs
 
 [Sustainability Management Program by the European Institute of Innovation for Sustainability](https://www.eiis-education.com/sustainability-management)
 
