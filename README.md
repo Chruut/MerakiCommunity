@@ -1,4 +1,4 @@
-# MerakiCommunity
+# Meraki Community Life Organs
 Organisatorial Platform for the Meraki People Bio-Community
 
 
